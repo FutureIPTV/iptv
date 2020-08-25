@@ -139,6 +139,10 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30195
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/512
 #EXTINF:0 group-title="Noticia",Globo News FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30196
+#EXTINF:0 group-title="Noticia",CNN Brasil FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/513
+#EXTINF:0 group-title="Noticia",CNN Brasil FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30198
 #EXTINF:0 group-title="Telecine",Telecine Action FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/562
 #EXTINF:0 group-title="Telecine",Telecine Action FHD[H265]

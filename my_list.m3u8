@@ -34,11 +34,11 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30262
 #EXTINF:0 group-title="Esporte",COMBATE HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/257
 #EXTINF:0 group-title="Esporte",Combate HD
-http://tvaz.top:80/arlan1/123456/69113
-#EXTINF:0 group-title="Esporte",SPORTV HD ²
-http://srv.tvprodigital.net:80/110175/110175/61060
-#EXTINF:0 group-title="Esporte",SporTV HD
-http://tvaz.top:80/arlan1/123456/69145
+http://psrv.io:80/roberto/roberto123/18707
+#EXTINF:0 group-title="Esporte",SporTV FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/555
+#EXTINF:0 group-title="Esporte",SporTV FHD [H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30293
 #EXTINF:0 group-title="Esporte",SporTV 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/553
 #EXTINF:0 group-title="Esporte",SporTV 2 FHD [H265]
@@ -123,14 +123,14 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30238
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/126
 #EXTINF:0 group-title="Infantil",Cartoon Network HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/139
-#EXTINF:0 group-title="Infantil",TOONCAST HD ²
-http://srv.tvprodigital.net:80/110175/110175/61129
-#EXTINF:0 group-title="Infantil",Tooncast HD
-http://tvaz.top:80/arlan1/123456/69067
+#EXTINF:0 group-title="Infantil",TOONCAST FHD H265 ²
+http://srv.tvprodigital.net:80/110175/110175/61252
+#EXTINF:0 group-title="Infantil",Tooncast FHD
+http://tvaz.top:80/arlan1/123456/69066
 #EXTINF:0 group-title="Infantil",Boomerang HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/138
-#EXTINF:0 group-title="Infantil",BOOMERANG HD ²
-http://srv.tvprodigital.net:80/110175/110175/61102
+#EXTINF:0 group-title="Infantil",Boomerang HD
+http://psrv.io:80/roberto/roberto123/18718
 #EXTINF:0 group-title="Noticia",Band News FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/510
 #EXTINF:0 group-title="Noticia",Band News FHD[H265]

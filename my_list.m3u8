@@ -75,6 +75,8 @@ http://srv.tvprodigital.net:80/110175/110175/11549
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
 #EXTINF:0 group-title="Premiere",Premiere Clubes 2 SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
+#EXTINF:0 group-title="Premiere",PREMIERE CLUBES HD
+http://tvaz.top:80/arlan1/123456/69106
 #EXTINF:0 group-title="Filmes",Warner Channel FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/297
 #EXTINF:0 group-title="Filmes",Warner Channel HD
@@ -183,3 +185,9 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30298
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30173
 #EXTINF:0 group-title="Globosat",MultiShow SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/10
+#EXTINF:0 group-title="Premiere",Premiere Clubes 2 FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
+#EXTINF:0 group-title="Premiere",PREMIERE CLUBES HD
+http://tvaz.top:80/arlan1/123456/69106
+#EXTINF:0 group-title="Premiere",Premiere Clubes HD
+http://psrv.io:80/roberto/roberto123/18582

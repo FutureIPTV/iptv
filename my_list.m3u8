@@ -15,10 +15,6 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/184
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/171
 #EXTINF:0 group-title="Documentarios",Discovery Turbo HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/186
-#EXTINF:0 group-title="Documentarios",Discovery Civilization HD
-http://tvaz.top:80/arlan1/123456/68795
-#EXTINF:0 group-title="Documentarios",Discovery Civilization FHD
-http://tvaz.top:80/arlan1/123456/68794
 #EXTINF:0 group-title="Documentarios",Discovery World FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/172
 #EXTINF:0 group-title="Documentarios",Discovery World HD
@@ -53,30 +49,18 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30284
 http://srv.tvprodigital.net:80/110175/110175/8149
 #EXTINF:0 group-title="Premiere",Premiere 3  FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
-#EXTINF:0 group-title="Premiere",PREMIERE 3 FHD H265
-http://srv.tvprodigital.net:80/110175/110175/9230
 #EXTINF:0 group-title="Premiere",Premiere 4 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30288
-#EXTINF:0 group-title="Premiere",PREMIERE 4 FHD H265
-http://srv.tvprodigital.net:80/110175/110175/11552
 #EXTINF:0 group-title="Premiere",Premiere 5 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30286
-#EXTINF:0 group-title="Premiere",PREMIERE 5 FHD H265
-http://srv.tvprodigital.net:80/110175/110175/9231
 #EXTINF:0 group-title="Premiere",Premiere 6 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30289
-#EXTINF:0 group-title="Premiere",PREMIERE 6 FHD H265
-http://srv.tvprodigital.net:80/110175/110175/11550
 #EXTINF:0 group-title="Premiere",Premiere 7 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
-#EXTINF:0 group-title="Premiere",PREMIERE 7 FHD H265
-http://srv.tvprodigital.net:80/110175/110175/11549
 #EXTINF:0 group-title="Premiere",Premiere Clubes 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
 #EXTINF:0 group-title="Premiere",Premiere Clubes 2 SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
-#EXTINF:0 group-title="Premiere",PREMIERE CLUBES HD
-http://tvaz.top:80/arlan1/123456/69106
 #EXTINF:0 group-title="Filmes",Warner Channel FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/297
 #EXTINF:0 group-title="Filmes",Warner Channel HD
@@ -125,10 +109,6 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30238
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/126
 #EXTINF:0 group-title="Infantil",Cartoon Network HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/139
-#EXTINF:0 group-title="Infantil",TOONCAST FHD H265 ²
-http://srv.tvprodigital.net:80/110175/110175/61252
-#EXTINF:0 group-title="Infantil",Tooncast FHD
-http://tvaz.top:80/arlan1/123456/69066
 #EXTINF:0 group-title="Infantil",Boomerang HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/138
 #EXTINF:0 group-title="Infantil",Boomerang HD
@@ -175,8 +155,6 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/101
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30193
 #EXTINF:0 group-title="Variedades",OFF HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/264
-#EXTINF:0 group-title="Variedades",OFF HD ²
-http://srv.tvprodigital.net:80/110175/110175/61066
 #EXTINF:0 group-title="Globosat",Viva FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/105
 #EXTINF:0 group-title="Globosat",VIVA FHD[H265]
@@ -185,9 +163,21 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30298
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30173
 #EXTINF:0 group-title="Globosat",MultiShow SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/10
+#EXTINF:0 group-title="Premiere",Premiere 3  FHD [H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
+#EXTINF:0 group-title="Premiere",Premiere 4 FHD [H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30288
+#EXTINF:0 group-title="Premiere",Premiere 5 FHD [H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30286
+#EXTINF:0 group-title="Premiere",Premiere 6 FHD [H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30289
+#EXTINF:0 group-title="Premiere",Premiere 7 FHD [H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
 #EXTINF:0 group-title="Premiere",Premiere Clubes 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
-#EXTINF:0 group-title="Premiere",PREMIERE CLUBES HD
-http://tvaz.top:80/arlan1/123456/69106
-#EXTINF:0 group-title="Premiere",Premiere Clubes HD
-http://psrv.io:80/roberto/roberto123/18582
+#EXTINF:0 group-title="Premiere",Premiere Clubes 2 SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
+#EXTINF:0 group-title="Infantil",TOONCAST FHD H265 ²
+http://srv.tvprodigital.net:80/192324/192324/61252
+#EXTINF:0 group-title="Variedades",OFF HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/264

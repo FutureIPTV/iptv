@@ -45,8 +45,6 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/554
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30292
 #EXTINF:0 group-title="Premiere",Premiere 2 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30284
-#EXTINF:0 group-title="Premiere",PREMIERE 2 FHD H265
-http://srv.tvprodigital.net:80/110175/110175/8149
 #EXTINF:0 group-title="Premiere",Premiere 3  FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
 #EXTINF:0 group-title="Premiere",Premiere 4 FHD [H265]
@@ -73,6 +71,14 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/243
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/294
 #EXTINF:0 group-title="Filmes",AMC FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
+#EXTINF:0 group-title="Filmes",TNT FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/287
+#EXTINF:0 group-title="Filmes",TNT FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30224
+#EXTINF:0 group-title="Filmes",AXN FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/295
+#EXTINF:0 group-title="Filmes",AXN FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30206
 #EXTINF:0 group-title="HBO",HBO HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/474
 #EXTINF:0 group-title="HBO",HBO HD [LEG]
@@ -153,8 +159,10 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30247
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/101
 #EXTINF:0 group-title="Variedades",Food Network FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30193
-#EXTINF:0 group-title="Variedades",OFF HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/264
+#EXTINF:0 group-title="Variedades",Space HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
+#EXTINF:0 group-title="Variedades",A&E HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299
 #EXTINF:0 group-title="Globosat",Viva FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/105
 #EXTINF:0 group-title="Globosat",VIVA FHD[H265]
@@ -163,6 +171,8 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30298
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30173
 #EXTINF:0 group-title="Globosat",MultiShow SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/10
+#EXTINF:0 group-title="Premiere",Premiere 2 FHD [H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30284
 #EXTINF:0 group-title="Premiere",Premiere 3  FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
 #EXTINF:0 group-title="Premiere",Premiere 4 FHD [H265]
@@ -177,7 +187,9 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
 #EXTINF:0 group-title="Premiere",Premiere Clubes 2 SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
-#EXTINF:0 group-title="Infantil",TOONCAST FHD H265 ²
-http://srv.tvprodigital.net:80/192324/192324/61252
-#EXTINF:0 group-title="Variedades",OFF HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/264
+#EXTINF:0 group-title="Infantil",TOONCAST HD ²
+http://srv.tvprodigital.net:80/192324/192324/61129
+#EXTINF:0 group-title="Variedades",Space HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
+#EXTINF:0 group-title="Variedades",A&E HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299

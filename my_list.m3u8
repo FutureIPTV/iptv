@@ -23,6 +23,10 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/187
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/189
 #EXTINF:0 group-title="Documentarios",History Channel HD
 http://psrv.io:80/roberto/roberto123/18631
+#EXTINF:0 group-title="Documentarios",History Channel 2 FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/173
+#EXTINF:0 group-title="Documentarios",History Channel 2 FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30262
 #EXTINF:0 group-title="Esporte",COMBATE HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/257
 #EXTINF:0 group-title="Esporte",Combate HD
@@ -63,8 +67,14 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/319
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30216
 #EXTINF:0 group-title="Filmes",Sony HD [LEG]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/243
+#EXTINF:0 group-title="Filmes",AMC FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/294
+#EXTINF:0 group-title="Filmes",AMC FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
 #EXTINF:0 group-title="Filmes",TNT FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/287
+#EXTINF:0 group-title="Filmes",TNT FHD[H265]
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30224
 #EXTINF:0 group-title="Filmes",AXN FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/295
 #EXTINF:0 group-title="Filmes",AXN FHD[H265]
@@ -151,6 +161,8 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/101
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30193
 #EXTINF:0 group-title="Variedades",Space HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
+#EXTINF:0 group-title="Variedades",A&E HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299
 #EXTINF:0 group-title="Globosat",Viva FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/105
 #EXTINF:0 group-title="Globosat",VIVA FHD[H265]
@@ -179,7 +191,9 @@ http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
 #EXTINF:0 group-title="Premiere",Premiere Clubes 2 SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
-#EXTINF:0 group-title="Filmes",TNT FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/287
 #EXTINF:0 group-title="Infantil",TOONCAST HD ²
 http://srv.tvprodigital.net:80/192324/192324/61129
+#EXTINF:0 group-title="Variedades",Space HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
+#EXTINF:0 group-title="Variedades",A&E HD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299

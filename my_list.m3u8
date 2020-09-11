@@ -1,199 +1,213 @@
 #EXTM3U
-#EXTINF:0 group-title="Documentarios",Discovery Channel FHD
+#EXTINF:-1 group-title="Documentarios",Discovery Channel FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/166
-#EXTINF:0 group-title="Documentarios",Discovery Channel FHD[H265]
+#EXTINF:-1 group-title="Documentarios",Discovery Channel FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30260
-#EXTINF:0 group-title="Documentarios",Discovery Home & Health FHD
+#EXTINF:-1 group-title="Documentarios",Discovery Home & Health FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/168
-#EXTINF:0 group-title="Documentarios",Discovery Home & Health HD
+#EXTINF:-1 group-title="Documentarios",Discovery Home & Health HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/183
-#EXTINF:0 group-title="Documentarios",Discovery Science FHD
+#EXTINF:-1 group-title="Documentarios",Discovery Science FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/169
-#EXTINF:0 group-title="Documentarios",Discovery Science HD
+#EXTINF:-1 group-title="Documentarios",Discovery Science HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/184
-#EXTINF:0 group-title="Documentarios",Discovery Turbo FHD
+#EXTINF:-1 group-title="Documentarios",Discovery Turbo FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/171
-#EXTINF:0 group-title="Documentarios",Discovery Turbo HD
+#EXTINF:-1 group-title="Documentarios",Discovery Turbo HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/186
-#EXTINF:0 group-title="Documentarios",Discovery World FHD
+#EXTINF:-1 group-title="Documentarios",Discovery World FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/172
-#EXTINF:0 group-title="Documentarios",Discovery World HD
+#EXTINF:-1 group-title="Documentarios",Discovery World HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/187
-#EXTINF:0 group-title="Documentarios",History Channel HD
+#EXTINF:-1 group-title="Documentarios",History Channel HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/189
-#EXTINF:0 group-title="Documentarios",History Channel HD
+#EXTINF:-1 group-title="Documentarios",History Channel HD
 http://psrv.io:80/roberto/roberto123/18631
-#EXTINF:0 group-title="Documentarios",History Channel 2 FHD
+#EXTINF:-1 group-title="Documentarios",History Channel 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/173
-#EXTINF:0 group-title="Documentarios",History Channel 2 FHD[H265]
+#EXTINF:-1 group-title="Documentarios",History Channel 2 FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30262
-#EXTINF:0 group-title="Esporte",COMBATE HD
+#EXTINF:-1 group-title="Esporte",COMBATE HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/257
-#EXTINF:0 group-title="Esporte",Combate HD
+#EXTINF:-1 group-title="Esporte",Combate HD
 http://psrv.io:80/roberto/roberto123/18707
-#EXTINF:0 group-title="Esporte",SporTV FHD
+#EXTINF:-1 group-title="Esporte",SporTV FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/555
-#EXTINF:0 group-title="Esporte",SporTV FHD [H265]
+#EXTINF:-1 group-title="Esporte",SporTV FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30293
-#EXTINF:0 group-title="Esporte",SporTV 2 FHD
+#EXTINF:-1 group-title="Esporte",SporTV 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/553
-#EXTINF:0 group-title="Esporte",SporTV 2 FHD [H265]
+#EXTINF:-1 group-title="Esporte",SporTV 2 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30291
-#EXTINF:0 group-title="Esporte",SporTV 3 FHD
+#EXTINF:-1 group-title="Esporte",SporTV 3 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/554
-#EXTINF:0 group-title="Esporte",SporTV 3 FHD [H265]
+#EXTINF:-1 group-title="Esporte",SporTV 3 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30292
-#EXTINF:0 group-title="Premiere",Premiere 2 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 2 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30284
-#EXTINF:0 group-title="Premiere",Premiere 3  FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 3  FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
-#EXTINF:0 group-title="Premiere",Premiere 4 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 4 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30288
-#EXTINF:0 group-title="Premiere",Premiere 5 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 5 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30286
-#EXTINF:0 group-title="Premiere",Premiere 6 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 6 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30289
-#EXTINF:0 group-title="Premiere",Premiere 7 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 7 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
-#EXTINF:0 group-title="Premiere",Premiere Clubes 2 FHD
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
-#EXTINF:0 group-title="Premiere",Premiere Clubes 2 SD
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 2 SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
-#EXTINF:0 group-title="Filmes",Warner Channel FHD
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 3 FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/526
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 3 SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/539
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 4 FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/527
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 4 SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/540
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 5 FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/528
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 5 SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/541
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 6 FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/529
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 6 SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/542
+#EXTINF:-1 group-title="Filmes",Warner Channel FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/297
-#EXTINF:0 group-title="Filmes",Warner Channel HD
+#EXTINF:-1 group-title="Filmes",Warner Channel HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/319
-#EXTINF:0 group-title="Filmes",Sony FHD[H265]
+#EXTINF:-1 group-title="Filmes",Sony FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30216
-#EXTINF:0 group-title="Filmes",Sony HD [LEG]
+#EXTINF:-1 group-title="Filmes",Sony HD [LEG]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/243
-#EXTINF:0 group-title="Filmes",AMC FHD
+#EXTINF:-1 group-title="Filmes",AMC FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/294
-#EXTINF:0 group-title="Filmes",AMC FHD[H265]
+#EXTINF:-1 group-title="Filmes",AMC FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
-#EXTINF:0 group-title="Filmes",TNT FHD
+#EXTINF:-1 group-title="Filmes",TNT FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/287
-#EXTINF:0 group-title="Filmes",TNT FHD[H265]
+#EXTINF:-1 group-title="Filmes",TNT FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30224
-#EXTINF:0 group-title="Filmes",AXN FHD
+#EXTINF:-1 group-title="Filmes",AXN FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/295
-#EXTINF:0 group-title="Filmes",AXN FHD[H265]
+#EXTINF:-1 group-title="Filmes",AXN FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30206
-#EXTINF:0 group-title="HBO",HBO HD
+#EXTINF:-1 group-title="HBO",HBO HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/474
-#EXTINF:0 group-title="HBO",HBO HD [LEG]
+#EXTINF:-1 group-title="HBO",HBO HD [LEG]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/213
-#EXTINF:0 group-title="HBO",HBO 2 FHD
+#EXTINF:-1 group-title="HBO",HBO 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/470
-#EXTINF:0 group-title="HBO",HBO 2 FHD
+#EXTINF:-1 group-title="HBO",HBO 2 FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/472
-#EXTINF:0 group-title="HBO",HBO Plus FHD
+#EXTINF:-1 group-title="HBO",HBO Plus FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/465
-#EXTINF:0 group-title="HBO",HBO Plus FHD [H265]
+#EXTINF:-1 group-title="HBO",HBO Plus FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30237
-#EXTINF:0 group-title="HBO",HBO POP FHD
+#EXTINF:-1 group-title="HBO",HBO POP FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/469
-#EXTINF:0 group-title="HBO",HBO Pop FHD [H265]
+#EXTINF:-1 group-title="HBO",HBO Pop FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30241
-#EXTINF:0 group-title="HBO",HBO Mundi FHD
+#EXTINF:-1 group-title="HBO",HBO Mundi FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/467
-#EXTINF:0 group-title="HBO",HBO Mundi FHD [H265]
+#EXTINF:-1 group-title="HBO",HBO Mundi FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30239
-#EXTINF:0 group-title="HBO",HBO Xtreme FHD
+#EXTINF:-1 group-title="HBO",HBO Xtreme FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/468
-#EXTINF:0 group-title="HBO",HBO Xtreme FHD [H265]
+#EXTINF:-1 group-title="HBO",HBO Xtreme FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30240
-#EXTINF:0 group-title="HBO",HBO Family FHD
+#EXTINF:-1 group-title="HBO",HBO Family FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/464
-#EXTINF:0 group-title="HBO",HBO Family FHD [H265]
+#EXTINF:-1 group-title="HBO",HBO Family FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30235
-#EXTINF:0 group-title="HBO",HBO Signature FHD
+#EXTINF:-1 group-title="HBO",HBO Signature FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/466
-#EXTINF:0 group-title="HBO",HBO Signature FHD [H265]
+#EXTINF:-1 group-title="HBO",HBO Signature FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30238
-#EXTINF:0 group-title="Infantil",Cartoon Network FHD
+#EXTINF:-1 group-title="Infantil",Tooncast SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/160
+#EXTINF:-1 group-title="Infantil",BooMerang FHD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/125
+#EXTINF:-1 group-title="Infantil",BOOMERANG H265
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30267
+#EXTINF:-1 group-title="Infantil",Cartoon Network FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/126
-#EXTINF:0 group-title="Infantil",Cartoon Network HD
+#EXTINF:-1 group-title="Infantil",Cartoon Network HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/139
-#EXTINF:0 group-title="Infantil",Boomerang HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/138
-#EXTINF:0 group-title="Infantil",Boomerang HD
-http://psrv.io:80/roberto/roberto123/18718
-#EXTINF:0 group-title="Noticia",Band News FHD
+#EXTINF:-1 group-title="Noticia",Band News FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/510
-#EXTINF:0 group-title="Noticia",Band News FHD[H265]
+#EXTINF:-1 group-title="Noticia",Band News FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30195
-#EXTINF:0 group-title="Noticia",Globo News FHD
+#EXTINF:-1 group-title="Noticia",Globo News FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/512
-#EXTINF:0 group-title="Noticia",Globo News FHD[H265]
+#EXTINF:-1 group-title="Noticia",Globo News FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30196
-#EXTINF:0 group-title="Noticia",CNN Brasil FHD
+#EXTINF:-1 group-title="Noticia",CNN Brasil FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/513
-#EXTINF:0 group-title="Noticia",CNN Brasil FHD[H265]
+#EXTINF:-1 group-title="Noticia",CNN Brasil FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30198
-#EXTINF:0 group-title="Telecine",Telecine Action FHD
+#EXTINF:-1 group-title="Telecine",Telecine Action FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/562
-#EXTINF:0 group-title="Telecine",Telecine Action FHD[H265]
+#EXTINF:-1 group-title="Telecine",Telecine Action FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30242
-#EXTINF:0 group-title="Telecine",Telecine Cult FHD
+#EXTINF:-1 group-title="Telecine",Telecine Cult FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/567
-#EXTINF:0 group-title="Telecine",Telecine Cult FHD[H265]
+#EXTINF:-1 group-title="Telecine",Telecine Cult FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30243
-#EXTINF:0 group-title="Telecine",Telecine FUN FHD
+#EXTINF:-1 group-title="Telecine",Telecine FUN FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/563
-#EXTINF:0 group-title="Telecine",Telecine Fun FHD[H265]
+#EXTINF:-1 group-title="Telecine",Telecine Fun FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30244
-#EXTINF:0 group-title="Telecine",Telecine Pipoca FHD
+#EXTINF:-1 group-title="Telecine",Telecine Pipoca FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/564
-#EXTINF:0 group-title="Telecine",Telecine Pipoca FHD[H265]
+#EXTINF:-1 group-title="Telecine",Telecine Pipoca FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30245
-#EXTINF:0 group-title="Telecine",Telecine Premium FHD
+#EXTINF:-1 group-title="Telecine",Telecine Premium FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/565
-#EXTINF:0 group-title="Telecine",Telecine Premium FHD[H265]
+#EXTINF:-1 group-title="Telecine",Telecine Premium FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30246
-#EXTINF:0 group-title="Telecine",Telecine Touch FHD
+#EXTINF:-1 group-title="Telecine",Telecine Touch FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/566
-#EXTINF:0 group-title="Telecine",Telecine Touch FHD[H265]
+#EXTINF:-1 group-title="Telecine",Telecine Touch FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30247
-#EXTINF:0 group-title="Variedades",Food Network FHD
+#EXTINF:-1 group-title="Variedades",Food Network FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/101
-#EXTINF:0 group-title="Variedades",Food Network FHD [H265]
+#EXTINF:-1 group-title="Variedades",Food Network FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30193
-#EXTINF:0 group-title="Variedades",Space HD
+#EXTINF:-1 group-title="Variedades",Space HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
-#EXTINF:0 group-title="Variedades",A&E HD
+#EXTINF:-1 group-title="Variedades",A&E HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299
-#EXTINF:0 group-title="Globosat",Viva FHD
+#EXTINF:-1 group-title="Globosat",Viva FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/105
-#EXTINF:0 group-title="Globosat",VIVA FHD[H265]
+#EXTINF:-1 group-title="Globosat",VIVA FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30298
-#EXTINF:0 group-title="Globosat",MULTISHOW  FHD[H265]
+#EXTINF:-1 group-title="Globosat",MULTISHOW  FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30173
-#EXTINF:0 group-title="Globosat",MultiShow SD
+#EXTINF:-1 group-title="Globosat",MultiShow SD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/10
-#EXTINF:0 group-title="Globosat",OFF FHD
+#EXTINF:-1 group-title="Globosat",OFF FHD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/253
-#EXTINF:0 group-title="Globosat",OFF FHD[H265]
+#EXTINF:-1 group-title="Globosat",OFF FHD[H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30279
-#EXTINF:0 group-title="Premiere",Premiere 2 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 2 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30284
-#EXTINF:0 group-title="Premiere",Premiere 3  FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 3  FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
-#EXTINF:0 group-title="Premiere",Premiere 4 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 4 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30288
-#EXTINF:0 group-title="Premiere",Premiere 5 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 5 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30286
-#EXTINF:0 group-title="Premiere",Premiere 6 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 6 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30289
-#EXTINF:0 group-title="Premiere",Premiere 7 FHD [H265]
+#EXTINF:-1 group-title="Premiere",Premiere 7 FHD [H265]
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
-#EXTINF:0 group-title="Premiere",Premiere Clubes 2 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
-#EXTINF:0 group-title="Premiere",Premiere Clubes 2 SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
-#EXTINF:0 group-title="Infantil",TOONCAST HD ²
-http://srv.tvprodigital.net:80/192324/192324/61129
-#EXTINF:0 group-title="Variedades",Space HD
+#EXTINF:-1 group-title="Infantil",Tooncast SD
+http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/160
+#EXTINF:-1 group-title="Variedades",Space HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
-#EXTINF:0 group-title="Variedades",A&E HD
+#EXTINF:-1 group-title="Variedades",A&E HD
 http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299

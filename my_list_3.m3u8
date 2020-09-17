@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD
+http://randomserver.site:2086/live/Bria/Bria/92707.m3u8
+#EXTINF:-1 group-title="Filmes",AMC Full HD (h265)
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9471.m3u8
+#EXTINF:-1 group-title="Filmes",AMC HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9397.m3u8
+#EXTINF:-1 group-title="Filmes",TNT SERIES
+http://randomserver.site:2086/live/crystal/12345/92634.m3u8
+#EXTINF:-1 group-title="Filmes",AXN
+http://randomserver.site:2086/live/crystal/12345/92724.m3u8
+#EXTINF:-1 group-title="Filmes",AXN
+http://randomserver.site:2086/live/Bria/Bria/92724.m3u8
+#EXTINF:-1 group-title="Infantil",Boomerang Full HD
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9166.m3u8
+#EXTINF:-1 group-title="Noticia",BAND NEWS
+http://randomserver.site:2086/live/crystal/12345/92723.m3u8
+#EXTINF:-1 group-title="Noticia",BAND NEWS
+http://randomserver.site:2086/crystal/12345/92723
+#EXTINF:-1 group-title="Noticia",GLOBO NEWS
+http://randomserver.site:2086/live/Bria/Bria/92691.m3u8
+#EXTINF:-1 group-title="Noticia",GLOBO NEWS
+http://randomserver.site:2086/live/crystal/12345/92691.m3u8
+#EXTINF:-1 group-title="Variedades",A&E HD (h265)
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9477.m3u8
+#EXTINF:-1 group-title="Globosat",Off
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9309.m3u8
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL
+http://randomserver.site:2086/live/crystal/12345/92715.m3u8
+#EXTINF:-1 group-title="Documentarios",DISCOVERY TURBO
+http://randomserver.site:2086/live/crystal/12345/92708.m3u8
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD
+http://randomserver.site:2086/live/crystal/12345/92707.m3u8
+#EXTINF:-1 group-title="Documentarios",HISTORY CHANNEL
+http://randomserver.site:2086/live/crystal/12345/92677.m3u8
+#EXTINF:-1 group-title="Documentarios",H2
+http://randomserver.site:2086/live/crystal/12345/92684.m3u8
+#EXTINF:-1 group-title="Esporte",COMBATE
+http://randomserver.site:2086/live/crystal/12345/92717.m3u8
+#EXTINF:-1 group-title="Esporte",SPORTV
+http://randomserver.site:2086/live/crystal/12345/92645.m3u8
+#EXTINF:-1 group-title="Esporte",SPORTV 1
+http://randomserver.site:2086/live/crystal/12345/92731.m3u8
+#EXTINF:-1 group-title="Esporte",SPORTV 2
+http://randomserver.site:2086/live/crystal/12345/92647.m3u8
+#EXTINF:-1 group-title="Premiere",PREMIERE 2
+http://randomserver.site:2086/live/crystal/12345/92660.m3u8
+#EXTINF:-1 group-title="Premiere",PREMIERE 4
+http://randomserver.site:2086/live/crystal/12345/92658.m3u8
+#EXTINF:-1 group-title="Premiere",PREMIERE 5
+http://randomserver.site:2086/live/crystal/12345/92657.m3u8
+#EXTINF:-1 group-title="Filmes",TNT
+http://randomserver.site:2086/live/crystal/12345/92635.m3u8
+#EXTINF:-1 group-title="HBO",HBO
+http://randomserver.site:2086/live/crystal/12345/92680.m3u8
+#EXTINF:-1 group-title="HBO",HBO 2
+http://randomserver.site:2086/live/crystal/12345/92682.m3u8
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://randomserver.site:2086/live/crystal/12345/92679.m3u8
+#EXTINF:-1 group-title="HBO",HBO FAMILY
+http://randomserver.site:2086/live/crystal/12345/92681.m3u8
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+http://randomserver.site:2086/live/crystal/12345/92678.m3u8
+#EXTINF:-1 group-title="Infantil",BOOMERANG
+http://randomserver.site:2086/live/crystal/12345/92720.m3u8
+#EXTINF:-1 group-title="Infantil",CARTOON NETWORK
+http://randomserver.site:2086/live/crystal/12345/92719.m3u8
+#EXTINF:-1 group-title="Telecine",TELECINE ACTION
+http://randomserver.site:2086/live/crystal/12345/92642.m3u8
+#EXTINF:-1 group-title="Telecine",TELECINE PREMIUM
+http://randomserver.site:2086/live/crystal/12345/92638.m3u8
+#EXTINF:-1 group-title="Telecine",TELECINE PREMIUM
+http://randomserver.site:2086/live/crystal/12345/92728.m3u8
+#EXTINF:-1 group-title="Globosat",VIVA
+http://randomserver.site:2086/live/crystal/12345/92632.m3u8
+#EXTINF:-1 group-title="Globosat",MULTISHOW
+http://randomserver.site:2086/live/crystal/12345/92669.m3u8
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL
+http://185.232.53.4:2086/tbird/tbird/92715
+#EXTINF:-1 group-title="Documentarios",DISCOVERY TURBO
+http://185.232.53.4:2086/tbird/tbird/92708
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CIVILIZATION
+http://185.232.53.4:2086/tbird/tbird/92714
+#EXTINF:-1 group-title="Documentarios",HISTORY CHANNEL
+http://185.232.53.4:2086/tbird/tbird/92677
+#EXTINF:-1 group-title="Documentarios",H2
+http://185.232.53.4:2086/tbird/tbird/92684
+#EXTINF:-1 group-title="Esporte",COMBATE
+http://185.232.53.4:2086/tbird/tbird/92717
+#EXTINF:-1 group-title="Esporte",SPORTV 2
+http://185.232.53.4:2086/tbird/tbird/92647
+#EXTINF:-1 group-title="Premiere",PREMIERE 2
+http://185.232.53.4:2086/tbird/tbird/92660
+#EXTINF:-1 group-title="Premiere",PREMIERE 4
+http://185.232.53.4:2086/tbird/tbird/92658
+#EXTINF:-1 group-title="Premiere",PREMIERE 5
+http://185.232.53.4:2086/tbird/tbird/92657
+#EXTINF:-1 group-title="Premiere Clubes",PREMIERE CLUBES
+http://185.232.53.4:2086/tbird/tbird/92656
+#EXTINF:-1 group-title="Premiere Clubes",PREMIERE CLUBES
+http://185.232.53.4:2086/tbird/tbird/92656
+#EXTINF:-1 group-title="HBO",HBO 2
+http://185.232.53.4:2086/tbird/tbird/92682
+#EXTINF:-1 group-title="HBO",HBO PLUS
+http://185.232.53.4:2086/tbird/tbird/92679
+#EXTINF:-1 group-title="HBO",HBO FAMILY
+http://185.232.53.4:2086/tbird/tbird/92681
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE
+http://185.232.53.4:2086/tbird/tbird/92678
+#EXTINF:-1 group-title="Infantil",CARTOON NETWORK
+http://185.232.53.4:2086/tbird/tbird/92719
+#EXTINF:-1 group-title="Telecine",TELECINE ACTION
+http://185.232.53.4:2086/tbird/tbird/92642
+#EXTINF:-1 group-title="Globosat",VIVA
+http://185.232.53.4:2086/tbird/tbird/92632
+#EXTINF:-1 group-title="Globosat",MULTISHOW
+http://185.232.53.4:2086/tbird/tbird/92669

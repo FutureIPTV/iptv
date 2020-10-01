@@ -1,191 +1,131 @@
 #EXTM3U
-#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL
-http://randomserver.site:2086/live/Bria/Bria/92715.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL
-http://randomserver.site:2086/live/crystal/12345/92715.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY HOME & HEALTH
-http://ingrid.ltd:25461/Melon3175/Melon7531/41337?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY SCIENCE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41335?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",Discovery Science Full HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9205?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY TURBO
-http://randomserver.site:2086/live/Bria/Bria/92708.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY TURBO
-http://randomserver.site:2086/live/crystal/12345/92708.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY CIVILIZATION
-http://ingrid.ltd:25461/Melon3175/Melon7531/41338?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY CIVILIZATION
-http://randomserver.site:2086/live/Bria/Bria/92714.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD
-http://randomserver.site:2086/live/Bria/Bria/92707.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD
-http://randomserver.site:2086/live/crystal/12345/92707.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",HISTORY CHANNEL
-http://randomserver.site:2086/live/crystal/12345/92732.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",HISTORY CHANNEL
-http://randomserver.site:2086/live/crystal/12345/92677.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",H2
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5619?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentarios",H2
-http://randomserver.site:2086/live/crystal/12345/92684.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",SPORTV Full HD (h265)
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9468.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",SPORTV Full HD h265
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9468?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes Full HD (h265)
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5662.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes Full HD h265
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5662?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes Full HD h265
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5662?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",AMC Full HD (h265)
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9471.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",AMC Full HD h265
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9471?checkedby:hlscat.com
-#EXTINF:-1 group-title="Variedades",A&E HD (h265)
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9477.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Variedades",A&E HD h265
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9477?checkedby:hlscat.com
-#EXTINF:-1 group-title="Globosat",Off Full HD (h265)
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9457.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Globosat",Off Full HD h265
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9457?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",COMBATE
-http://randomserver.site:2086/live/crystal/12345/92717.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",COMBATE
-http://ingrid.ltd:25461/Melon3175/Melon7531/41344?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",SPORTV 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41238?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",SPORTV 2
-http://randomserver.site:2086/live/Bria/Bria/92647.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",SPORTV 3
-http://ingrid.ltd:25461/Melon3175/Melon7531/41237?checkedby:hlscat.com
-#EXTINF:-1 group-title="Esporte",SPORTV 3 FHD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77336?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 1
-http://ingrid.ltd:25461/Melon3175/Melon7531/41264?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 2
-http://randomserver.site:2086/live/Bria/Bria/92660.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 2
-http://randomserver.site:2086/crystal/12345/92660?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 3
-http://ingrid.ltd:25461/Melon3175/Melon7531/41262?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 4
-http://randomserver.site:2086/live/Bria/Bria/92658.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 4
-http://randomserver.site:2086/live/crystal/12345/92658.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 5
-http://randomserver.site:2086/crystal/12345/92657?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 5
-http://randomserver.site:2086/live/crystal/12345/92657.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 6
-http://ingrid.ltd:25461/Melon3175/Melon7531/41259?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere",PREMIERE 7
-http://ingrid.ltd:25461/Melon3175/Melon7531/41258?checkedby:hlscat.com
-#EXTINF:-1 group-title="Premiere Clubes",PREMIERE CLUBES
-http://randomserver.site:2086/live/Bria/Bria/92656.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",WARNER CHANNEL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41215?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",WARNER CHANNEL.FHD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77352?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",SONY
-http://ingrid.ltd:25461/Melon3175/Melon7531/41241?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",SONY FHD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77333?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",TNT
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5636?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",TNT
-http://randomserver.site:2086/live/crystal/12345/92635.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",AXN
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5601.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Filmes",AXN
-http://randomserver.site:2086/live/crystal/12345/92724.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Globosat",VIVA
-http://randomserver.site:2086/live/crystal/12345/92632.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Globosat",VIVA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41216?checkedby:hlscat.com
-#EXTINF:-1 group-title="Globosat",MULTISHOW
-http://randomserver.site:2086/live/crystal/12345/92669.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Globosat",MULTISHOW
-http://randomserver.site:2086/live/Bria/Bria/92669.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL 4K
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33306?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",DISCOVERY CHANNEL FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33215?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",DISCOVERY SCIENCE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33227?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",Discovery Turbo FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33209?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33212?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",DISCOVERY WORLD HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33229?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",HISTORY 2 HD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/13445.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentarios",HISTORY FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33259?checkedby:hlscat.com
+#EXTINF:-1 group-title="Esporte",COMBATE 4K
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33302?checkedby:hlscat.com
+#EXTINF:-1 group-title="Esporte",COMBATE FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33040?checkedby:hlscat.com
+#EXTINF:-1 group-title="Esporte",SPORTV 4K
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33311?checkedby:hlscat.com
+#EXTINF:-1 group-title="Esporte",SPORTV FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33044?checkedby:hlscat.com
+#EXTINF:-1 group-title="Esporte",sportv 2 sd
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33058?checkedby:hlscat.com
+#EXTINF:-1 group-title="Esporte",sportv 3 sd
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33060?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",WARNER CHANNEL FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33140?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",SONY HD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/13458.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",AMC HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33196?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",AMC SD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33207?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",TNT 4K
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33307?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",TNT FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33156?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",AXN FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33131?checkedby:hlscat.com
+#EXTINF:-1 group-title="Filmes",AXN HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33195?checkedby:hlscat.com
+#EXTINF:-1 group-title="Globosat",VIVA FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33270?checkedby:hlscat.com
+#EXTINF:-1 group-title="Globosat",Viva Web TV
+https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Globosat",MULTISHOW  FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33262?checkedby:hlscat.com
+#EXTINF:-1 group-title="Globosat",MULTISHOW 4K
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33312?checkedby:hlscat.com
+#EXTINF:-1 group-title="Globosat",OFF FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33273?checkedby:hlscat.com
+#EXTINF:-1 group-title="Globosat",Off
+http://tvla.xyz:80/trojnmhf/l5m0Lkp1L0/44090?checkedby:hlscat.com
 #EXTINF:-1 group-title="HBO",HBO
-http://randomserver.site:2086/live/Bria/Bria/92680.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5620?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9360?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO 2
-http://randomserver.site:2086/live/Bria/Bria/92682.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO 2
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5621?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO PLUS
-http://randomserver.site:2086/live/Bria/Bria/92679.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO PLUS
-http://randomserver.site:2086/live/crystal/12345/92679.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO POP SD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77059?checkedby:hlscat.com
+http://ingrid.ltd:25461/frank1/frank/41287?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",HBO  HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33185?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",hbo sd
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33177?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",Hbo FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33137?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",Hbo 2 FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33136?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",Hbo 2 HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33186?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",HBO PLUS FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33138?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",HBO PLUS HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33187?checkedby:hlscat.com
 #EXTINF:-1 group-title="HBO",HBO FAMILY
-http://randomserver.site:2086/live/Bria/Bria/92681.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO FAMILY
-http://randomserver.site:2086/crystal/12345/92681?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE
-http://randomserver.site:2086/crystal/12345/92678?checkedby:hlscat.com
-#EXTINF:-1 group-title="HBO",HBO SIGNATURE
-http://randomserver.site:2086/live/crystal/12345/92678.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Infantil",TOONCAST FHD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77348?checkedby:hlscat.com
-#EXTINF:-1 group-title="Infantil",TOONCAST SD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77102?checkedby:hlscat.com
-#EXTINF:-1 group-title="Infantil",BOOMERANG
-http://randomserver.site:2086/live/crystal/12345/92720.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Infantil",BOOMERANG
-http://ingrid.ltd:25461/Melon3175/Melon7531/41349?checkedby:hlscat.com
-#EXTINF:-1 group-title="Infantil",CARTOON NETWORK
-http://tv.iptv5latino.cl:8000/live/roberto2/roberto/14785.ts?checkedby:hlscat.com
-#EXTINF:-1 group-title="Infantil",Cartoon Network
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5606.m3u8?checkedby:hlscat.com
+http://ingrid.ltd:25461/frank1/frank/41285?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",HBO FAMILY FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33155?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33151?checkedby:hlscat.com
+#EXTINF:-1 group-title="HBO",HBO SIGNATURE HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33206?checkedby:hlscat.com
+#EXTINF:-1 group-title="Infantil",TOONCAST HD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/13470.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Infantil",TOONCAST HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33252?checkedby:hlscat.com
+#EXTINF:-1 group-title="Infantil",Cartoon Network FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33231?checkedby:hlscat.com
+#EXTINF:-1 group-title="Infantil",cartoon network sd
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33242?checkedby:hlscat.com
 #EXTINF:-1 group-title="Noticia",BAND NEWS
-http://randomserver.site:2086/live/crystal/12345/92723.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Noticia",BAND NEWS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41352?checkedby:hlscat.com
-#EXTINF:-1 group-title="Noticia",GLOBO NEWS
-http://randomserver.site:2086/crystal/12345/92691?checkedby:hlscat.com
-#EXTINF:-1 group-title="Noticia",GLOBO NEWS
-http://randomserver.site:2086/live/crystal/12345/92691.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Noticia",CNN Brasil FHD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77356?checkedby:hlscat.com
-#EXTINF:-1 group-title="Noticia",CNN Brasil HD*
-http://server.advancedhtv.com:80/waldemir06/waldemir06/77233?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",TELECINE ACTION
-http://randomserver.site:2086/live/Bria/Bria/92642.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",TELECINE ACTION
-http://randomserver.site:2086/live/crystal/12345/92642.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",TELECINE CULT
-http://ingrid.ltd:25461/Melon3175/Melon7531/41231?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",Telecine Cult
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5631?checkedby:hlscat.com
+http://ingrid.ltd:25461/frank1/frank/41352?checkedby:hlscat.com
+#EXTINF:-1 group-title="Noticia",BAND NEWS HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33129?checkedby:hlscat.com
+#EXTINF:-1 group-title="Noticia",GLOBO NEWS FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33100?checkedby:hlscat.com
+#EXTINF:-1 group-title="Noticia",Globo News HD
+http://tvla.xyz:80/trojnmhf/l5m0Lkp1L0/44037?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",Telecine Action FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33147?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",Telecine Action HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33188?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",TELECINE CULT FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33159?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",TELECINE CULT HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33205?checkedby:hlscat.com
 #EXTINF:-1 group-title="Telecine",TELECINE FUN
-http://ingrid.ltd:25461/Melon3175/Melon7531/41230?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",Telecine Fun
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5632?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",TELECINE PIPOCA
-http://ingrid.ltd:25461/Melon3175/Melon7531/41229?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",Telecine Pipoca
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/5633?checkedby:hlscat.com
+http://ingrid.ltd:25461/frank1/frank/41230?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",Telecine Fun FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33146?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",TELECINE PIPOCA HD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/13466.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",Telecine Pipoca  FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33145?checkedby:hlscat.com
 #EXTINF:-1 group-title="Telecine",TELECINE PREMIUM
-http://randomserver.site:2086/live/Bria/Bria/92638.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",TELECINE PREMIUM
-http://randomserver.site:2086/crystal/12345/92638?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",TELECINE TOUCH
-http://ingrid.ltd:25461/Melon3175/Melon7531/41227?checkedby:hlscat.com
-#EXTINF:-1 group-title="Telecine",TELECINE TOUCH
-http://randomserver.site:2086/live/crystal/12345/92637.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="Variedades",FOOD NETWORK
-http://ingrid.ltd:25461/Melon3175/Melon7531/41322?checkedby:hlscat.com
-#EXTINF:-1 group-title="Variedades",Food Network
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9299?checkedby:hlscat.com
-#EXTINF:-1 group-title="Variedades",Space HD
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/9432?checkedby:hlscat.com
-#EXTINF:-1 group-title="Variedades",Space HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9432.m3u8?checkedby:hlscat.com
+http://ingrid.ltd:25461/frank1/frank/41228?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",Telecine Premium FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33144?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",Telecine Touch FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33143?checkedby:hlscat.com
+#EXTINF:-1 group-title="Telecine",Telecine Touch HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33192?checkedby:hlscat.com
+#EXTINF:-1 group-title="Variedades",FOOD NETWORK FHD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33214?checkedby:hlscat.com
+#EXTINF:-1 group-title="Variedades",FOOD NETWORK HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33254?checkedby:hlscat.com
+#EXTINF:-1 group-title="Variedades",SPACE HD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/13459.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Variedades",A&E HD
+http://localdblagent.club:8080/live/Carlos1/Carlos1/13417.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Variedades",A&E HD
+http://medotv.nl:8000/samih991/dgV3ZGHwyX/33197?checkedby:hlscat.com

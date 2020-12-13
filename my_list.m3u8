@@ -1,213 +1,525 @@
 #EXTM3U
 #EXTINF:-1 group-title="Documentarios",Discovery Channel FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/166
-#EXTINF:-1 group-title="Documentarios",Discovery Channel FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30260
-#EXTINF:-1 group-title="Documentarios",Discovery Home & Health FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/168
-#EXTINF:-1 group-title="Documentarios",Discovery Home & Health HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/183
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18783
+#EXTINF:-1 group-title="Documentarios",Discovery Channel FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22204
 #EXTINF:-1 group-title="Documentarios",Discovery Science FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/169
-#EXTINF:-1 group-title="Documentarios",Discovery Science HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/184
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18842
+#EXTINF:-1 group-title="Documentarios",Discovery Science FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22201
 #EXTINF:-1 group-title="Documentarios",Discovery Turbo FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/171
-#EXTINF:-1 group-title="Documentarios",Discovery Turbo HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/186
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18840
+#EXTINF:-1 group-title="Documentarios",Discovery Turbo FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22131
 #EXTINF:-1 group-title="Documentarios",Discovery World FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/172
-#EXTINF:-1 group-title="Documentarios",Discovery World HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/187
-#EXTINF:-1 group-title="Documentarios",History Channel HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/189
-#EXTINF:-1 group-title="Documentarios",History Channel HD
-http://psrv.io:80/roberto/roberto123/18631
-#EXTINF:-1 group-title="Documentarios",History Channel 2 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/173
-#EXTINF:-1 group-title="Documentarios",History Channel 2 FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30262
-#EXTINF:-1 group-title="Esporte",COMBATE HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/257
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18839
+#EXTINF:-1 group-title="Documentarios",Discovery World FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22130
+#EXTINF:-1 group-title="Documentarios",History Channel FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18822
+#EXTINF:-1 group-title="Documentarios",History Channel FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22188
+#EXTINF:-1 group-title="Documentarios",H2 HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18643
 #EXTINF:-1 group-title="Esporte",Combate HD
-http://psrv.io:80/roberto/roberto123/18707
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18707
 #EXTINF:-1 group-title="Esporte",SporTV FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/555
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18761
 #EXTINF:-1 group-title="Esporte",SporTV FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30293
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22166
 #EXTINF:-1 group-title="Esporte",SporTV 2 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/553
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18763
 #EXTINF:-1 group-title="Esporte",SporTV 2 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30291
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22168
 #EXTINF:-1 group-title="Esporte",SporTV 3 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/554
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18762
 #EXTINF:-1 group-title="Esporte",SporTV 3 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30292
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22167
+#EXTINF:-1 group-title="Premiere",Premiere 2 FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18772
 #EXTINF:-1 group-title="Premiere",Premiere 2 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30284
-#EXTINF:-1 group-title="Premiere",Premiere 3  FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22176
+#EXTINF:-1 group-title="Premiere",Premiere 3 FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18771
+#EXTINF:-1 group-title="Premiere",Premiere 3 FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22175
+#EXTINF:-1 group-title="Premiere",Premiere 4 FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18770
 #EXTINF:-1 group-title="Premiere",Premiere 4 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30288
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22174
+#EXTINF:-1 group-title="Premiere",Premiere 5 FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18769
 #EXTINF:-1 group-title="Premiere",Premiere 5 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30286
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22173
+#EXTINF:-1 group-title="Premiere",Premiere 6 FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18768
 #EXTINF:-1 group-title="Premiere",Premiere 6 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30289
-#EXTINF:-1 group-title="Premiere",Premiere 7 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 2 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/525
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 2 SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/538
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 3 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/526
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 3 SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/539
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 4 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/527
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 4 SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/540
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 5 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/528
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 5 SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/541
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 6 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/529
-#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes 6 SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/542
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22172
+#EXTINF:-1 group-title="Premiere",Premiere 7 FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18767
+#EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18582
 #EXTINF:-1 group-title="Filmes",Warner Channel FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/297
-#EXTINF:-1 group-title="Filmes",Warner Channel HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/319
-#EXTINF:-1 group-title="Filmes",Sony FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30216
-#EXTINF:-1 group-title="Filmes",Sony HD [LEG]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/243
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18790
+#EXTINF:-1 group-title="Filmes",Warner Channel FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22153
+#EXTINF:-1 group-title="Filmes",Sony FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18850
+#EXTINF:-1 group-title="Filmes",Sony HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18714
 #EXTINF:-1 group-title="Filmes",AMC FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/294
-#EXTINF:-1 group-title="Filmes",AMC FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30228
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18857
+#EXTINF:-1 group-title="Filmes",AMC FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22212
 #EXTINF:-1 group-title="Filmes",TNT FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/287
-#EXTINF:-1 group-title="Filmes",TNT FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30224
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18796
+#EXTINF:-1 group-title="Filmes",TNT FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22157
 #EXTINF:-1 group-title="Filmes",AXN FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/295
-#EXTINF:-1 group-title="Filmes",AXN FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30206
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18854
+#EXTINF:-1 group-title="Filmes",AXN FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22210
 #EXTINF:-1 group-title="HBO",HBO HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/474
-#EXTINF:-1 group-title="HBO",HBO HD [LEG]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/213
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18637
 #EXTINF:-1 group-title="HBO",HBO 2 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/470
-#EXTINF:-1 group-title="HBO",HBO 2 FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/472
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18774
+#EXTINF:-1 group-title="HBO",HBO 2 FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22189
 #EXTINF:-1 group-title="HBO",HBO Plus FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/465
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18824
 #EXTINF:-1 group-title="HBO",HBO Plus FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30237
-#EXTINF:-1 group-title="HBO",HBO POP FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/469
-#EXTINF:-1 group-title="HBO",HBO Pop FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30241
-#EXTINF:-1 group-title="HBO",HBO Mundi FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/467
-#EXTINF:-1 group-title="HBO",HBO Mundi FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30239
-#EXTINF:-1 group-title="HBO",HBO Xtreme FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/468
-#EXTINF:-1 group-title="HBO",HBO Xtreme FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30240
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22191
+#EXTINF:-1 group-title="HBO",HBO POP SD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45147
+#EXTINF:-1 group-title="HBO",HBO POP HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45148
+#EXTINF:-1 group-title="HBO",HBO Mundi HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18623
+#EXTINF:-1 group-title="HBO",HBO Mundi SD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45135
+#EXTINF:-1 group-title="HBO",HBO XTREME FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45142
+#EXTINF:-1 group-title="HBO",HBO XTREME HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45144
 #EXTINF:-1 group-title="HBO",HBO Family FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/464
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18825
 #EXTINF:-1 group-title="HBO",HBO Family FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30235
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22140
 #EXTINF:-1 group-title="HBO",HBO Signature FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/466
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18823
 #EXTINF:-1 group-title="HBO",HBO Signature FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30238
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22190
 #EXTINF:-1 group-title="Infantil",Tooncast SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/160
-#EXTINF:-1 group-title="Infantil",BooMerang FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/125
-#EXTINF:-1 group-title="Infantil",BOOMERANG H265
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30267
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18533
+#EXTINF:-1 group-title="Infantil",Boomerang FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18851
+#EXTINF:-1 group-title="Infantil",Boomerang HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18718
 #EXTINF:-1 group-title="Infantil",Cartoon Network FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/126
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18849
 #EXTINF:-1 group-title="Infantil",Cartoon Network HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/139
-#EXTINF:-1 group-title="Noticia",Band News FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/510
-#EXTINF:-1 group-title="Noticia",Band News FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30195
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18711
 #EXTINF:-1 group-title="Noticia",Globo News FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/512
-#EXTINF:-1 group-title="Noticia",Globo News FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30196
-#EXTINF:-1 group-title="Noticia",CNN Brasil FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/513
-#EXTINF:-1 group-title="Noticia",CNN Brasil FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30198
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18776
+#EXTINF:-1 group-title="Noticia",Globo News FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22193
+#EXTINF:-1 group-title="Noticia",CNN Brasil HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/47358
+#EXTINF:-1 group-title="Noticia",CNN Brasil SD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/47359
 #EXTINF:-1 group-title="Telecine",Telecine Action FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/562
-#EXTINF:-1 group-title="Telecine",Telecine Action FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30242
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18760
+#EXTINF:-1 group-title="Telecine",Telecine Action FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22163
 #EXTINF:-1 group-title="Telecine",Telecine Cult FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/567
-#EXTINF:-1 group-title="Telecine",Telecine Cult FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30243
-#EXTINF:-1 group-title="Telecine",Telecine FUN FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/563
-#EXTINF:-1 group-title="Telecine",Telecine Fun FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30244
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18798
+#EXTINF:-1 group-title="Telecine",Telecine Cult FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22162
+#EXTINF:-1 group-title="Telecine",Telecine Fun FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18759
+#EXTINF:-1 group-title="Telecine",Telecine Fun FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22161
 #EXTINF:-1 group-title="Telecine",Telecine Pipoca FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/564
-#EXTINF:-1 group-title="Telecine",Telecine Pipoca FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30245
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18758
+#EXTINF:-1 group-title="Telecine",Telecine Pipoca FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22160
 #EXTINF:-1 group-title="Telecine",Telecine Premium FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/565
-#EXTINF:-1 group-title="Telecine",Telecine Premium FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30246
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18757
+#EXTINF:-1 group-title="Telecine",Telecine Premium FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22159
 #EXTINF:-1 group-title="Telecine",Telecine Touch FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/566
-#EXTINF:-1 group-title="Telecine",Telecine Touch FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30247
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18756
+#EXTINF:-1 group-title="Telecine",Telecine Touch FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22158
 #EXTINF:-1 group-title="Variedades",Food Network FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/101
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18834
 #EXTINF:-1 group-title="Variedades",Food Network FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30193
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22198
 #EXTINF:-1 group-title="Variedades",Space HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18564
 #EXTINF:-1 group-title="Variedades",A&E HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18738
+#EXTINF:-1 group-title="Variedades",Ideal TV FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28397
 #EXTINF:-1 group-title="Globosat",Viva FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/105
-#EXTINF:-1 group-title="Globosat",VIVA FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30298
-#EXTINF:-1 group-title="Globosat",MULTISHOW  FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30173
-#EXTINF:-1 group-title="Globosat",MultiShow SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/10
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18755
+#EXTINF:-1 group-title="Globosat",Viva HD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18515
+#EXTINF:-1 group-title="Globosat",Multishow FHD
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18813
+#EXTINF:-1 group-title="Globosat",Multishow FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22182
 #EXTINF:-1 group-title="Globosat",OFF FHD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/253
-#EXTINF:-1 group-title="Globosat",OFF FHD[H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30279
-#EXTINF:-1 group-title="Premiere",Premiere 2 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30284
-#EXTINF:-1 group-title="Premiere",Premiere 3  FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30285
-#EXTINF:-1 group-title="Premiere",Premiere 4 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30288
-#EXTINF:-1 group-title="Premiere",Premiere 5 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30286
-#EXTINF:-1 group-title="Premiere",Premiere 6 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30289
-#EXTINF:-1 group-title="Premiere",Premiere 7 FHD [H265]
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/30290
-#EXTINF:-1 group-title="Infantil",Tooncast SD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/160
-#EXTINF:-1 group-title="Variedades",Space HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/313
-#EXTINF:-1 group-title="Variedades",A&E HD
-http://pfsv.io:80/ibqJejmTr5/9Q1kvPkuRn/299
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18806
+#EXTINF:-1 group-title="Globosat",OFF FHD [H265]
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22135
+#EXTINF:-1 group-title="Globosat",[24H] 3 Palavrinhas
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19181
+#EXTINF:-1 group-title="Globosat",[24H] Apenas Um Show
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/27132
+#EXTINF:-1 group-title="Globosat",[24H] As aventuras de Jackie Chan
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24980
+#EXTINF:-1 group-title="Globosat",[24H] As Meninas Superpoderosas
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19222
+#EXTINF:-1 group-title="Globosat",[24H] As Tartarugas Ninjas
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19221
+#EXTINF:-1 group-title="Globosat",[24H] Ben 10
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19219
+#EXTINF:-1 group-title="Globosat",[24H] Bob Esponja
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19220
+#EXTINF:-1 group-title="Globosat",[24H] Bob Zoom
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19223
+#EXTINF:-1 group-title="Globosat",[24H] Breaking Bad
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28070
+#EXTINF:-1 group-title="Globosat",[24H] Caverna do Dragao
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19216
+#EXTINF:-1 group-title="Globosat",[24H] Chapolin Colorado
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28071
+#EXTINF:-1 group-title="Globosat",[24H] Chaves
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19218
+#EXTINF:-1 group-title="Globosat",[24H] Coragem - O Cao Covarde
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19215
+#EXTINF:-1 group-title="Globosat",[24H] Corrida Maluca
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24981
+#EXTINF:-1 group-title="Globosat",[24H] Dennis - O Pimentinha
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19214
+#EXTINF:-1 group-title="Globosat",[24H] Desenhos Biblicos
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28073
+#EXTINF:-1 group-title="Globosat",[24H] Dois Homens e Meio
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19212
+#EXTINF:-1 group-title="Globosat",[24H] Dragon Ball Z
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19211
+#EXTINF:-1 group-title="Globosat",[24H] Eu - A Patroa e as Criancas
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19177
+#EXTINF:-1 group-title="Globosat",[24H] Família da Pesada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24973
+#EXTINF:-1 group-title="Globosat",[24H] Formiga Atômica
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24974
+#EXTINF:-1 group-title="Globosat",[24H] Galinha Pintadinha
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19210
+#EXTINF:-1 group-title="Globosat",[24H] Jaspion
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19205
+#EXTINF:-1 group-title="Globosat",[24H] Kenan e Kel
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24982
+#EXTINF:-1 group-title="Globosat",[24H] Luluzinha
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24976
+#EXTINF:-1 group-title="Globosat",[24H] Mickey e Donald
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24977
+#EXTINF:-1 group-title="Globosat",[24H] Naruto
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19202
+#EXTINF:-1 group-title="Globosat",[24H] O Maskara
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24983
+#EXTINF:-1 group-title="Globosat",[24H] Os Cavaleiros do Zodiaco
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19197
+#EXTINF:-1 group-title="Globosat",[24H] Os Flintstones
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19196
+#EXTINF:-1 group-title="Globosat",[24H] Os Simpsons
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/27897
+#EXTINF:-1 group-title="Globosat",[24H] Peppa Pig
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24979
+#EXTINF:-1 group-title="Globosat",[24H] Pernalonga
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19194
+#EXTINF:-1 group-title="Globosat",[24H] Pica-Pau
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19192
+#EXTINF:-1 group-title="Globosat",[24H] Scooby Doo
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19190
+#EXTINF:-1 group-title="Globosat",[24H] South Park
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19189
+#EXTINF:-1 group-title="Globosat",[24H] Thundercats
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19178
+#EXTINF:-1 group-title="Globosat",[24H] Todo Mundo Odeia o Chris
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19185
+#EXTINF:-1 group-title="Globosat",[24H] Tom e Jerry
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19184
+#EXTINF:-1 group-title="Globosat",[24H] Ursinhos carinhosos e  tom & jerry
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19182
+#EXTINF:-1 group-title="Globosat",[24H] Digimon
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28200
+#EXTINF:-1 group-title="Globosat",[24H] Doug
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28201
+#EXTINF:-1 group-title="Globosat",[24H] DRAGON BALL
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28202
+#EXTINF:-1 group-title="Globosat",[24H] DRAGON BALL SUPER
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28203
+#EXTINF:-1 group-title="Globosat",[24H] He-Man
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28204
+#EXTINF:-1 group-title="Globosat",[24H] Hércules
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28205
+#EXTINF:-1 group-title="Globosat",[24H] HOMEM ARANHA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28206
+#EXTINF:-1 group-title="Globosat",[24H] Homem de Ferro
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28207
+#EXTINF:-1 group-title="Globosat",[24H] HOMEMS DE PRETO
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28208
+#EXTINF:-1 group-title="Globosat",[24H] Incrível Hulk
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28209
+#EXTINF:-1 group-title="Globosat",[24H] MegaMan
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28210
+#EXTINF:-1 group-title="Globosat",[24H] Naruto Shippuden
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28211
+#EXTINF:-1 group-title="Globosat",[24H] Papa-Léguas
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28212
+#EXTINF:-1 group-title="Globosat",[24H] Pink-e-Cerebro
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28213
+#EXTINF:-1 group-title="Globosat",[24H] Sobrenatural
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28214
+#EXTINF:-1 group-title="Globosat",[24H] YU-YU-Hakusho
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28215
+#EXTINF:-1 group-title="Globosat",[24H] A historia de Deus com Morgan Freeman 1
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33401
+#EXTINF:-1 group-title="Globosat",[24H] A historia de Deus com Morgan Freeman 2
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33402
+#EXTINF:-1 group-title="Globosat",[24H] A Maldicao da Residencia
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33403
+#EXTINF:-1 group-title="Globosat",[24H] American Horror 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33404
+#EXTINF:-1 group-title="Globosat",[24H] American Horror 5 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33406
+#EXTINF:-1 group-title="Globosat",[24H] American Horror 6 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33407
+#EXTINF:-1 group-title="Globosat",[24H] American Horror 7 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33408
+#EXTINF:-1 group-title="Globosat",[24H] As Telefonistas 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33409
+#EXTINF:-1 group-title="Globosat",[24H] As Telefonistas 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33410
+#EXTINF:-1 group-title="Globosat",[24H] As Telefonistas 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33411
+#EXTINF:-1 group-title="Globosat",[24H] Assedio
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33412
+#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33413
+#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33414
+#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33415
+#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 4 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33416
+#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 5 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33417
+#EXTINF:-1 group-title="Globosat",[24H] Black Lightning
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33418
+#EXTINF:-1 group-title="Globosat",[24H] Cacadores de Sombra  1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33419
+#EXTINF:-1 group-title="Globosat",[24H] Cacadores de Sombra  2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33420
+#EXTINF:-1 group-title="Globosat",[24H] Cacadores de Sombra  3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33421
+#EXTINF:-1 group-title="Globosat",[24H] Carcereiros
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33422
+#EXTINF:-1 group-title="Globosat",[24H] Cascão Maratona
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33423
+#EXTINF:-1 group-title="Globosat",[24H] Cavalo de Fogo
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33424
+#EXTINF:-1 group-title="Globosat",[24H] Chicago Med 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33425
+#EXTINF:-1 group-title="Globosat",[24H] Chicago Med 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33426
+#EXTINF:-1 group-title="Globosat",[24H]  Chicago Med 3 Temporda
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33427
+#EXTINF:-1 group-title="Globosat",[24H] Damnation
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33428
+#EXTINF:-1 group-title="Globosat",[24H] Dark Matter
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33429
+#EXTINF:-1 group-title="Globosat",[24H] Deceptions
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33430
+#EXTINF:-1 group-title="Globosat",[24H] Demolidor 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33431
+#EXTINF:-1 group-title="Globosat",[24H] Demolidor  2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33432
+#EXTINF:-1 group-title="Globosat",[24H] Demolidor  3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33433
+#EXTINF:-1 group-title="Globosat",Tico E Teco
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33434
+#EXTINF:-1 group-title="Globosat",[24H] Diarios de Horrores
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33435
+#EXTINF:-1 group-title="Globosat",[24H]  Diarios de Um Vampiro 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33436
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33437
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33438
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33439
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 4 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33440
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 5 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33441
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 6 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33442
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 7 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33443
+#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 8 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33444
+#EXTINF:-1 group-title="Globosat",[24H] Dupla Identidade
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33445
+#EXTINF:-1 group-title="Globosat",[24H]  El Chapo 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33446
+#EXTINF:-1 group-title="Globosat",[24H] Elite
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33447
+#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33448
+#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33449
+#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33450
+#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 5 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33452
+#EXTINF:-1 group-title="Globosat",[24H] Fear The Walking Dead 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33454
+#EXTINF:-1 group-title="Globosat",[24H] Fear The Walking 2 Dead  Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33455
+#EXTINF:-1 group-title="Globosat",[24H] Fear The Walking 3 Dead  Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33456
+#EXTINF:-1 group-title="Globosat",[24H] Frequency
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33457
+#EXTINF:-1 group-title="Globosat",[24H] Fugitivos
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33458
+#EXTINF:-1 group-title="Globosat",[24H] Future Man
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33459
+#EXTINF:-1 group-title="Globosat",[24H] Gamebros
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33460
+#EXTINF:-1 group-title="Globosat",[24H] Ghoul
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33461
+#EXTINF:-1 group-title="Globosat",[24H] Gothan 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33462
+#EXTINF:-1 group-title="Globosat",[24H] Greys Anatomy 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33463
+#EXTINF:-1 group-title="Globosat",[24H] Hannibal 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33464
+#EXTINF:-1 group-title="Globosat",[24H] Impuros
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33465
+#EXTINF:-1 group-title="Globosat",[24H] Irmaos de Guerra
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33466
+#EXTINF:-1 group-title="Globosat",[24H] Jogos Sagrados
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33467
+#EXTINF:-1 group-title="Globosat",[24H] Jose do Egito
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33468
+#EXTINF:-1 group-title="Globosat",[24H] Justiceiro 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33469
+#EXTINF:-1 group-title="Globosat",[24H] La Casa Papel 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33470
+#EXTINF:-1 group-title="Globosat",[24H] La Casa Papel 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33471
+#EXTINF:-1 group-title="Globosat",[24H]  Legend of Tomorrow  2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33472
+#EXTINF:-1 group-title="Globosat",[24H]  Legend of Tomorrow 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33473
+#EXTINF:-1 group-title="Globosat",[24H] Luke Cage 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33474
+#EXTINF:-1 group-title="Globosat",[24H] Lucifer 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33475
+#EXTINF:-1 group-title="Globosat",[24H] Lucifer 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33476
+#EXTINF:-1 group-title="Globosat",[24H]  Macgyver 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33479
+#EXTINF:-1 group-title="Globosat",[24H]  Maquina Mortifera 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33480
+#EXTINF:-1 group-title="Globosat",[24H]  Masha e o Urso
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33481
+#EXTINF:-1 group-title="Globosat",[24H]  Mecanismo
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33482
+#EXTINF:-1 group-title="Globosat",[24H]  Mindhunter
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33483
+#EXTINF:-1 group-title="Globosat",[24H] Narcos 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33484
+#EXTINF:-1 group-title="Globosat",[24H] Narcos 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33485
+#EXTINF:-1 group-title="Globosat",[24H] O Homem Do Castelo Alto 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33486
+#EXTINF:-1 group-title="Globosat",[24H] O Homem Do Castelo Alto 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33487
+#EXTINF:-1 group-title="Globosat",[24H] O Homem Do Castelo Alto 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33488
+#EXTINF:-1 group-title="Globosat",[24H] O Negocio 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33489
+#EXTINF:-1 group-title="Globosat",[24H] O Negocio 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33490
+#EXTINF:-1 group-title="Globosat",[24H] O Negocio 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33491
+#EXTINF:-1 group-title="Globosat",[24H] O Negocio 4 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33492
+#EXTINF:-1 group-title="Globosat",[24H] Outsiders 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33493
+#EXTINF:-1 group-title="Globosat",[24H] Outsiders 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33494
+#EXTINF:-1 group-title="Globosat",[24H] Pica Pau Tom & Jerry
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33495
+#EXTINF:-1 group-title="Globosat",[24H] POCOYO
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33497
+#EXTINF:-1 group-title="Globosat",[24H] Prison Break 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33500
+#EXTINF:-1 group-title="Globosat",[24H] Prison Break 4 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33501
+#EXTINF:-1 group-title="Globosat",[24H] Prison Break 5 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33502
+#EXTINF:-1 group-title="Globosat",[24h] Star Trek 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33504
+#EXTINF:-1 group-title="Globosat",[24h] Star Trek 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33505
+#EXTINF:-1 group-title="Globosat",[24h] Stranger Things 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33506
+#EXTINF:-1 group-title="Globosat",[24h] Supernatural 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33507
+#EXTINF:-1 group-title="Globosat",[24H]  The Big Bang Theory 1 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33508
+#EXTINF:-1 group-title="Globosat",[24H]  The Big Bang Theory 2 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33509
+#EXTINF:-1 group-title="Globosat",[24H]  The Big Bang Theory 3 Temporada
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33510
+#EXTINF:-1 group-title="Globosat",[24H] Turma da Monica
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33511
+#EXTINF:-1 group-title="Globosat",[24H] Vikins 1 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33512
+#EXTINF:-1 group-title="Globosat",[24H] Vikins 3 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33513
+#EXTINF:-1 group-title="Globosat",[24H] Vikins 4 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33514
+#EXTINF:-1 group-title="Globosat",[24H] Vikins 5 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33515
+#EXTINF:-1 group-title="Globosat",[24H] Vikins 2 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33516
+#EXTINF:-1 group-title="Globosat",[24H] EU A PATROA E AS CRIANÇAS 2 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33517
+#EXTINF:-1 group-title="Globosat",[24H] EU A PATROA E AS CRIANÇAS 3 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33518
+#EXTINF:-1 group-title="Globosat",[24H] UM MALUCO NO PEDAÇO 1 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33519
+#EXTINF:-1 group-title="Globosat",[24H] UM MALUCO NO PEDACO 2 TEMP
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33520
+#EXTINF:-1 group-title="Globosat",[24H] UM MALUCO NO PEDACO 3 TEMP
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33521
+#EXTINF:-1 group-title="Globosat",[24H] SUPER WINGS
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33522
+#EXTINF:-1 group-title="Globosat",[24H] LA CASA  PAPEL 3 TEMPORADA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33523
+#EXTINF:-1 group-title="Globosat",[24H] PATRULHA CANINA
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33524
+#EXTINF:-1 group-title="Globosat",[24H] POLICIA 24 HORAS
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33525
+#EXTINF:-1 group-title="Globosat",[24H] Vai que Cola
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45161
+#EXTINF:-1 group-title="Globosat",[24H] [US] ADULT SWIM - Black Jesus
+http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45330
+#EXTINF:-1 group-title="Premiere",PREMIERE 7 - FHD
+http://u9in.club:8080/renato/1234567/83785

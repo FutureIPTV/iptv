@@ -29,32 +29,20 @@ http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18761
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22166
 #EXTINF:-1 group-title="Esporte",SporTV 2 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18763
-#EXTINF:-1 group-title="Esporte",SporTV 2 FHD [H265]
-http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22168
 #EXTINF:-1 group-title="Esporte",SporTV 3 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18762
 #EXTINF:-1 group-title="Esporte",SporTV 3 FHD [H265]
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22167
 #EXTINF:-1 group-title="Premiere",Premiere 2 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18772
-#EXTINF:-1 group-title="Premiere",Premiere 2 FHD [H265]
-http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22176
 #EXTINF:-1 group-title="Premiere",Premiere 3 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18771
-#EXTINF:-1 group-title="Premiere",Premiere 3 FHD [H265]
-http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22175
 #EXTINF:-1 group-title="Premiere",Premiere 4 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18770
-#EXTINF:-1 group-title="Premiere",Premiere 4 FHD [H265]
-http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22174
 #EXTINF:-1 group-title="Premiere",Premiere 5 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18769
-#EXTINF:-1 group-title="Premiere",Premiere 5 FHD [H265]
-http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22173
 #EXTINF:-1 group-title="Premiere",Premiere 6 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18768
-#EXTINF:-1 group-title="Premiere",Premiere 6 FHD [H265]
-http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22172
 #EXTINF:-1 group-title="Premiere",Premiere 7 FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18767
 #EXTINF:-1 group-title="Premiere Clubes",Premiere Clubes HD
@@ -113,8 +101,6 @@ http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22190
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18533
 #EXTINF:-1 group-title="Infantil",Boomerang FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18851
-#EXTINF:-1 group-title="Infantil",Boomerang HD
-http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18718
 #EXTINF:-1 group-title="Infantil",Cartoon Network FHD
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18849
 #EXTINF:-1 group-title="Infantil",Cartoon Network HD
@@ -173,353 +159,365 @@ http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22182
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18806
 #EXTINF:-1 group-title="Globosat",OFF FHD [H265]
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/22135
-#EXTINF:-1 group-title="Globosat",[24H] 3 Palavrinhas
+#EXTINF:-1 group-title="24 horas",[24H] 3 Palavrinhas
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19181
-#EXTINF:-1 group-title="Globosat",[24H] Apenas Um Show
+#EXTINF:-1 group-title="24 horas",[24H] Apenas Um Show
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/27132
-#EXTINF:-1 group-title="Globosat",[24H] As aventuras de Jackie Chan
+#EXTINF:-1 group-title="24 horas",[24H] As aventuras de Jackie Chan
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24980
-#EXTINF:-1 group-title="Globosat",[24H] As Meninas Superpoderosas
+#EXTINF:-1 group-title="24 horas",[24H] As Meninas Superpoderosas
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19222
-#EXTINF:-1 group-title="Globosat",[24H] As Tartarugas Ninjas
+#EXTINF:-1 group-title="24 horas",[24H] As Tartarugas Ninjas
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19221
-#EXTINF:-1 group-title="Globosat",[24H] Ben 10
+#EXTINF:-1 group-title="24 horas",[24H] Ben 10
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19219
-#EXTINF:-1 group-title="Globosat",[24H] Bob Esponja
+#EXTINF:-1 group-title="24 horas",[24H] Bob Esponja
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19220
-#EXTINF:-1 group-title="Globosat",[24H] Bob Zoom
+#EXTINF:-1 group-title="24 horas",[24H] Bob Zoom
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19223
-#EXTINF:-1 group-title="Globosat",[24H] Breaking Bad
+#EXTINF:-1 group-title="24 horas",[24H] Breaking Bad
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28070
-#EXTINF:-1 group-title="Globosat",[24H] Caverna do Dragao
+#EXTINF:-1 group-title="24 horas",[24H] Caverna do Dragao
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19216
-#EXTINF:-1 group-title="Globosat",[24H] Chapolin Colorado
+#EXTINF:-1 group-title="24 horas",[24H] Chapolin Colorado
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28071
-#EXTINF:-1 group-title="Globosat",[24H] Chaves
+#EXTINF:-1 group-title="24 horas",[24H] Chaves
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19218
-#EXTINF:-1 group-title="Globosat",[24H] Coragem - O Cao Covarde
+#EXTINF:-1 group-title="24 horas",[24H] Coragem - O Cao Covarde
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19215
-#EXTINF:-1 group-title="Globosat",[24H] Corrida Maluca
+#EXTINF:-1 group-title="24 horas",[24H] Corrida Maluca
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24981
-#EXTINF:-1 group-title="Globosat",[24H] Dennis - O Pimentinha
+#EXTINF:-1 group-title="24 horas",[24H] Dennis - O Pimentinha
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19214
-#EXTINF:-1 group-title="Globosat",[24H] Desenhos Biblicos
+#EXTINF:-1 group-title="24 horas",[24H] Desenhos Biblicos
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28073
-#EXTINF:-1 group-title="Globosat",[24H] Dois Homens e Meio
+#EXTINF:-1 group-title="24 horas",[24H] Dois Homens e Meio
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19212
-#EXTINF:-1 group-title="Globosat",[24H] Dragon Ball Z
+#EXTINF:-1 group-title="24 horas",[24H] Dragon Ball Z
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19211
-#EXTINF:-1 group-title="Globosat",[24H] Eu - A Patroa e as Criancas
+#EXTINF:-1 group-title="24 horas",[24H] Eu - A Patroa e as Criancas
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19177
-#EXTINF:-1 group-title="Globosat",[24H] Família da Pesada
+#EXTINF:-1 group-title="24 horas",[24H] Família da Pesada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24973
-#EXTINF:-1 group-title="Globosat",[24H] Formiga Atômica
+#EXTINF:-1 group-title="24 horas",[24H] Formiga Atômica
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24974
-#EXTINF:-1 group-title="Globosat",[24H] Galinha Pintadinha
+#EXTINF:-1 group-title="24 horas",[24H] Galinha Pintadinha
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19210
-#EXTINF:-1 group-title="Globosat",[24H] Jaspion
+#EXTINF:-1 group-title="24 horas",[24H] Jaspion
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19205
-#EXTINF:-1 group-title="Globosat",[24H] Kenan e Kel
+#EXTINF:-1 group-title="24 horas",[24H] Kenan e Kel
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24982
-#EXTINF:-1 group-title="Globosat",[24H] Luluzinha
+#EXTINF:-1 group-title="24 horas",[24H] Luluzinha
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24976
-#EXTINF:-1 group-title="Globosat",[24H] Mickey e Donald
+#EXTINF:-1 group-title="24 horas",[24H] Mickey e Donald
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24977
-#EXTINF:-1 group-title="Globosat",[24H] Naruto
+#EXTINF:-1 group-title="24 horas",[24H] Naruto
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19202
-#EXTINF:-1 group-title="Globosat",[24H] O Maskara
+#EXTINF:-1 group-title="24 horas",[24H] O Maskara
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24983
-#EXTINF:-1 group-title="Globosat",[24H] Os Cavaleiros do Zodiaco
+#EXTINF:-1 group-title="24 horas",[24H] Os Cavaleiros do Zodiaco
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19197
-#EXTINF:-1 group-title="Globosat",[24H] Os Flintstones
+#EXTINF:-1 group-title="24 horas",[24H] Os Flintstones
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19196
-#EXTINF:-1 group-title="Globosat",[24H] Os Simpsons
+#EXTINF:-1 group-title="24 horas",[24H] Os Simpsons
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/27897
-#EXTINF:-1 group-title="Globosat",[24H] Peppa Pig
+#EXTINF:-1 group-title="24 horas",[24H] Peppa Pig
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/24979
-#EXTINF:-1 group-title="Globosat",[24H] Pernalonga
+#EXTINF:-1 group-title="24 horas",[24H] Pernalonga
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19194
-#EXTINF:-1 group-title="Globosat",[24H] Pica-Pau
+#EXTINF:-1 group-title="24 horas",[24H] Pica-Pau
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19192
-#EXTINF:-1 group-title="Globosat",[24H] Scooby Doo
+#EXTINF:-1 group-title="24 horas",[24H] Scooby Doo
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19190
-#EXTINF:-1 group-title="Globosat",[24H] South Park
+#EXTINF:-1 group-title="24 horas",[24H] South Park
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19189
-#EXTINF:-1 group-title="Globosat",[24H] Thundercats
+#EXTINF:-1 group-title="24 horas",[24H] Thundercats
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19178
-#EXTINF:-1 group-title="Globosat",[24H] Todo Mundo Odeia o Chris
+#EXTINF:-1 group-title="24 horas",[24H] Todo Mundo Odeia o Chris
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19185
-#EXTINF:-1 group-title="Globosat",[24H] Tom e Jerry
+#EXTINF:-1 group-title="24 horas",[24H] Tom e Jerry
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19184
-#EXTINF:-1 group-title="Globosat",[24H] Ursinhos carinhosos e  tom & jerry
+#EXTINF:-1 group-title="24 horas",[24H] Ursinhos carinhosos e  tom & jerry
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/19182
-#EXTINF:-1 group-title="Globosat",[24H] Digimon
+#EXTINF:-1 group-title="24 horas",[24H] Digimon
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28200
-#EXTINF:-1 group-title="Globosat",[24H] Doug
+#EXTINF:-1 group-title="24 horas",[24H] Doug
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28201
-#EXTINF:-1 group-title="Globosat",[24H] DRAGON BALL
+#EXTINF:-1 group-title="24 horas",[24H] DRAGON BALL
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28202
-#EXTINF:-1 group-title="Globosat",[24H] DRAGON BALL SUPER
+#EXTINF:-1 group-title="24 horas",[24H] DRAGON BALL SUPER
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28203
-#EXTINF:-1 group-title="Globosat",[24H] He-Man
+#EXTINF:-1 group-title="24 horas",[24H] He-Man
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28204
-#EXTINF:-1 group-title="Globosat",[24H] Hércules
+#EXTINF:-1 group-title="24 horas",[24H] Hércules
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28205
-#EXTINF:-1 group-title="Globosat",[24H] HOMEM ARANHA
+#EXTINF:-1 group-title="24 horas",[24H] HOMEM ARANHA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28206
-#EXTINF:-1 group-title="Globosat",[24H] Homem de Ferro
+#EXTINF:-1 group-title="24 horas",[24H] Homem de Ferro
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28207
-#EXTINF:-1 group-title="Globosat",[24H] HOMEMS DE PRETO
+#EXTINF:-1 group-title="24 horas",[24H] HOMEMS DE PRETO
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28208
-#EXTINF:-1 group-title="Globosat",[24H] Incrível Hulk
+#EXTINF:-1 group-title="24 horas",[24H] Incrível Hulk
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28209
-#EXTINF:-1 group-title="Globosat",[24H] MegaMan
+#EXTINF:-1 group-title="24 horas",[24H] MegaMan
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28210
-#EXTINF:-1 group-title="Globosat",[24H] Naruto Shippuden
+#EXTINF:-1 group-title="24 horas",[24H] Naruto Shippuden
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28211
-#EXTINF:-1 group-title="Globosat",[24H] Papa-Léguas
+#EXTINF:-1 group-title="24 horas",[24H] Papa-Léguas
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28212
-#EXTINF:-1 group-title="Globosat",[24H] Pink-e-Cerebro
+#EXTINF:-1 group-title="24 horas",[24H] Pink-e-Cerebro
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28213
-#EXTINF:-1 group-title="Globosat",[24H] Sobrenatural
+#EXTINF:-1 group-title="24 horas",[24H] Sobrenatural
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28214
-#EXTINF:-1 group-title="Globosat",[24H] YU-YU-Hakusho
+#EXTINF:-1 group-title="24 horas",[24H] YU-YU-Hakusho
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28215
-#EXTINF:-1 group-title="Globosat",[24H] A historia de Deus com Morgan Freeman 1
+#EXTINF:-1 group-title="24 horas",[24H] A historia de Deus com Morgan Freeman 1
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33401
-#EXTINF:-1 group-title="Globosat",[24H] A historia de Deus com Morgan Freeman 2
+#EXTINF:-1 group-title="24 horas",[24H] A historia de Deus com Morgan Freeman 2
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33402
-#EXTINF:-1 group-title="Globosat",[24H] A Maldicao da Residencia
+#EXTINF:-1 group-title="24 horas",[24H] A Maldicao da Residencia
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33403
-#EXTINF:-1 group-title="Globosat",[24H] American Horror 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] American Horror 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33404
-#EXTINF:-1 group-title="Globosat",[24H] American Horror 5 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] American Horror 5 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33406
-#EXTINF:-1 group-title="Globosat",[24H] American Horror 6 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] American Horror 6 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33407
-#EXTINF:-1 group-title="Globosat",[24H] American Horror 7 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] American Horror 7 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33408
-#EXTINF:-1 group-title="Globosat",[24H] As Telefonistas 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] As Telefonistas 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33409
-#EXTINF:-1 group-title="Globosat",[24H] As Telefonistas 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] As Telefonistas 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33410
-#EXTINF:-1 group-title="Globosat",[24H] As Telefonistas 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] As Telefonistas 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33411
-#EXTINF:-1 group-title="Globosat",[24H] Assedio
+#EXTINF:-1 group-title="24 horas",[24H] Assedio
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33412
-#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Bates Motel 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33413
-#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Bates Motel 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33414
-#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Bates Motel 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33415
-#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 4 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Bates Motel 4 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33416
-#EXTINF:-1 group-title="Globosat",[24H] Bates Motel 5 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Bates Motel 5 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33417
-#EXTINF:-1 group-title="Globosat",[24H] Black Lightning
+#EXTINF:-1 group-title="24 horas",[24H] Black Lightning
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33418
-#EXTINF:-1 group-title="Globosat",[24H] Cacadores de Sombra  1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Cacadores de Sombra  1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33419
-#EXTINF:-1 group-title="Globosat",[24H] Cacadores de Sombra  2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Cacadores de Sombra  2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33420
-#EXTINF:-1 group-title="Globosat",[24H] Cacadores de Sombra  3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Cacadores de Sombra  3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33421
-#EXTINF:-1 group-title="Globosat",[24H] Carcereiros
+#EXTINF:-1 group-title="24 horas",[24H] Carcereiros
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33422
-#EXTINF:-1 group-title="Globosat",[24H] Cascão Maratona
+#EXTINF:-1 group-title="24 horas",[24H] Cascão Maratona
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33423
-#EXTINF:-1 group-title="Globosat",[24H] Cavalo de Fogo
+#EXTINF:-1 group-title="24 horas",[24H] Cavalo de Fogo
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33424
-#EXTINF:-1 group-title="Globosat",[24H] Chicago Med 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Chicago Med 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33425
-#EXTINF:-1 group-title="Globosat",[24H] Chicago Med 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Chicago Med 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33426
-#EXTINF:-1 group-title="Globosat",[24H]  Chicago Med 3 Temporda
+#EXTINF:-1 group-title="24 horas",[24H]  Chicago Med 3 Temporda
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33427
-#EXTINF:-1 group-title="Globosat",[24H] Damnation
+#EXTINF:-1 group-title="24 horas",[24H] Damnation
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33428
-#EXTINF:-1 group-title="Globosat",[24H] Dark Matter
+#EXTINF:-1 group-title="24 horas",[24H] Dark Matter
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33429
-#EXTINF:-1 group-title="Globosat",[24H] Deceptions
+#EXTINF:-1 group-title="24 horas",[24H] Deceptions
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33430
-#EXTINF:-1 group-title="Globosat",[24H] Demolidor 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Demolidor 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33431
-#EXTINF:-1 group-title="Globosat",[24H] Demolidor  2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Demolidor  2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33432
-#EXTINF:-1 group-title="Globosat",[24H] Demolidor  3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Demolidor  3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33433
-#EXTINF:-1 group-title="Globosat",Tico E Teco
+#EXTINF:-1 group-title="24 horas",Tico E Teco
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33434
-#EXTINF:-1 group-title="Globosat",[24H] Diarios de Horrores
+#EXTINF:-1 group-title="24 horas",[24H] Diarios de Horrores
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33435
-#EXTINF:-1 group-title="Globosat",[24H]  Diarios de Um Vampiro 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  Diarios de Um Vampiro 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33436
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33437
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33438
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33439
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 4 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 4 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33440
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 5 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 5 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33441
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 6 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 6 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33442
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 7 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 7 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33443
-#EXTINF:-1 group-title="Globosat",[24H] Doctor Who 8 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Doctor Who 8 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33444
-#EXTINF:-1 group-title="Globosat",[24H] Dupla Identidade
+#EXTINF:-1 group-title="24 horas",[24H] Dupla Identidade
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33445
-#EXTINF:-1 group-title="Globosat",[24H]  El Chapo 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  El Chapo 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33446
-#EXTINF:-1 group-title="Globosat",[24H] Elite
+#EXTINF:-1 group-title="24 horas",[24H] Elite
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33447
-#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Familia Soprano 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33448
-#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Familia Soprano 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33449
-#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Familia Soprano 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33450
-#EXTINF:-1 group-title="Globosat",[24H] Familia Soprano 5 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Familia Soprano 5 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33452
-#EXTINF:-1 group-title="Globosat",[24H] Fear The Walking Dead 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Fear The Walking Dead 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33454
-#EXTINF:-1 group-title="Globosat",[24H] Fear The Walking 2 Dead  Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Fear The Walking 2 Dead  Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33455
-#EXTINF:-1 group-title="Globosat",[24H] Fear The Walking 3 Dead  Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Fear The Walking 3 Dead  Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33456
-#EXTINF:-1 group-title="Globosat",[24H] Frequency
+#EXTINF:-1 group-title="24 horas",[24H] Frequency
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33457
-#EXTINF:-1 group-title="Globosat",[24H] Fugitivos
+#EXTINF:-1 group-title="24 horas",[24H] Fugitivos
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33458
-#EXTINF:-1 group-title="Globosat",[24H] Future Man
+#EXTINF:-1 group-title="24 horas",[24H] Future Man
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33459
-#EXTINF:-1 group-title="Globosat",[24H] Gamebros
+#EXTINF:-1 group-title="24 horas",[24H] Gamebros
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33460
-#EXTINF:-1 group-title="Globosat",[24H] Ghoul
+#EXTINF:-1 group-title="24 horas",[24H] Ghoul
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33461
-#EXTINF:-1 group-title="Globosat",[24H] Gothan 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Gothan 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33462
-#EXTINF:-1 group-title="Globosat",[24H] Greys Anatomy 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Greys Anatomy 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33463
-#EXTINF:-1 group-title="Globosat",[24H] Hannibal 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Hannibal 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33464
-#EXTINF:-1 group-title="Globosat",[24H] Impuros
+#EXTINF:-1 group-title="24 horas",[24H] Impuros
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33465
-#EXTINF:-1 group-title="Globosat",[24H] Irmaos de Guerra
+#EXTINF:-1 group-title="24 horas",[24H] Irmaos de Guerra
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33466
-#EXTINF:-1 group-title="Globosat",[24H] Jogos Sagrados
+#EXTINF:-1 group-title="24 horas",[24H] Jogos Sagrados
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33467
-#EXTINF:-1 group-title="Globosat",[24H] Jose do Egito
+#EXTINF:-1 group-title="24 horas",[24H] Jose do Egito
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33468
-#EXTINF:-1 group-title="Globosat",[24H] Justiceiro 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Justiceiro 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33469
-#EXTINF:-1 group-title="Globosat",[24H] La Casa Papel 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] La Casa Papel 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33470
-#EXTINF:-1 group-title="Globosat",[24H] La Casa Papel 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] La Casa Papel 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33471
-#EXTINF:-1 group-title="Globosat",[24H]  Legend of Tomorrow  2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  Legend of Tomorrow  2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33472
-#EXTINF:-1 group-title="Globosat",[24H]  Legend of Tomorrow 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  Legend of Tomorrow 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33473
-#EXTINF:-1 group-title="Globosat",[24H] Luke Cage 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Luke Cage 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33474
-#EXTINF:-1 group-title="Globosat",[24H] Lucifer 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Lucifer 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33475
-#EXTINF:-1 group-title="Globosat",[24H] Lucifer 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Lucifer 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33476
-#EXTINF:-1 group-title="Globosat",[24H]  Macgyver 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  Macgyver 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33479
-#EXTINF:-1 group-title="Globosat",[24H]  Maquina Mortifera 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  Maquina Mortifera 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33480
-#EXTINF:-1 group-title="Globosat",[24H]  Masha e o Urso
+#EXTINF:-1 group-title="24 horas",[24H]  Masha e o Urso
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33481
-#EXTINF:-1 group-title="Globosat",[24H]  Mecanismo
+#EXTINF:-1 group-title="24 horas",[24H]  Mecanismo
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33482
-#EXTINF:-1 group-title="Globosat",[24H]  Mindhunter
+#EXTINF:-1 group-title="24 horas",[24H]  Mindhunter
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33483
-#EXTINF:-1 group-title="Globosat",[24H] Narcos 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Narcos 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33484
-#EXTINF:-1 group-title="Globosat",[24H] Narcos 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Narcos 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33485
-#EXTINF:-1 group-title="Globosat",[24H] O Homem Do Castelo Alto 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] O Homem Do Castelo Alto 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33486
-#EXTINF:-1 group-title="Globosat",[24H] O Homem Do Castelo Alto 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] O Homem Do Castelo Alto 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33487
-#EXTINF:-1 group-title="Globosat",[24H] O Homem Do Castelo Alto 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] O Homem Do Castelo Alto 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33488
-#EXTINF:-1 group-title="Globosat",[24H] O Negocio 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] O Negocio 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33489
-#EXTINF:-1 group-title="Globosat",[24H] O Negocio 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] O Negocio 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33490
-#EXTINF:-1 group-title="Globosat",[24H] O Negocio 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] O Negocio 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33491
-#EXTINF:-1 group-title="Globosat",[24H] O Negocio 4 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] O Negocio 4 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33492
-#EXTINF:-1 group-title="Globosat",[24H] Outsiders 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Outsiders 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33493
-#EXTINF:-1 group-title="Globosat",[24H] Outsiders 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Outsiders 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33494
-#EXTINF:-1 group-title="Globosat",[24H] Pica Pau Tom & Jerry
+#EXTINF:-1 group-title="24 horas",[24H] Pica Pau Tom & Jerry
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33495
-#EXTINF:-1 group-title="Globosat",[24H] POCOYO
+#EXTINF:-1 group-title="24 horas",[24H] POCOYO
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33497
-#EXTINF:-1 group-title="Globosat",[24H] Prison Break 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Prison Break 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33500
-#EXTINF:-1 group-title="Globosat",[24H] Prison Break 4 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Prison Break 4 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33501
-#EXTINF:-1 group-title="Globosat",[24H] Prison Break 5 Temporada
+#EXTINF:-1 group-title="24 horas",[24H] Prison Break 5 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33502
-#EXTINF:-1 group-title="Globosat",[24h] Star Trek 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24h] Star Trek 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33504
-#EXTINF:-1 group-title="Globosat",[24h] Star Trek 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24h] Star Trek 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33505
-#EXTINF:-1 group-title="Globosat",[24h] Stranger Things 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24h] Stranger Things 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33506
-#EXTINF:-1 group-title="Globosat",[24h] Supernatural 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24h] Supernatural 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33507
-#EXTINF:-1 group-title="Globosat",[24H]  The Big Bang Theory 1 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  The Big Bang Theory 1 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33508
-#EXTINF:-1 group-title="Globosat",[24H]  The Big Bang Theory 2 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  The Big Bang Theory 2 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33509
-#EXTINF:-1 group-title="Globosat",[24H]  The Big Bang Theory 3 Temporada
+#EXTINF:-1 group-title="24 horas",[24H]  The Big Bang Theory 3 Temporada
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33510
-#EXTINF:-1 group-title="Globosat",[24H] Turma da Monica
+#EXTINF:-1 group-title="24 horas",[24H] Turma da Monica
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33511
-#EXTINF:-1 group-title="Globosat",[24H] Vikins 1 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] Vikins 1 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33512
-#EXTINF:-1 group-title="Globosat",[24H] Vikins 3 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] Vikins 3 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33513
-#EXTINF:-1 group-title="Globosat",[24H] Vikins 4 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] Vikins 4 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33514
-#EXTINF:-1 group-title="Globosat",[24H] Vikins 5 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] Vikins 5 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33515
-#EXTINF:-1 group-title="Globosat",[24H] Vikins 2 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] Vikins 2 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33516
-#EXTINF:-1 group-title="Globosat",[24H] EU A PATROA E AS CRIANÇAS 2 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] EU A PATROA E AS CRIANÇAS 2 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33517
-#EXTINF:-1 group-title="Globosat",[24H] EU A PATROA E AS CRIANÇAS 3 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] EU A PATROA E AS CRIANÇAS 3 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33518
-#EXTINF:-1 group-title="Globosat",[24H] UM MALUCO NO PEDAÇO 1 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] UM MALUCO NO PEDAÇO 1 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33519
-#EXTINF:-1 group-title="Globosat",[24H] UM MALUCO NO PEDACO 2 TEMP
+#EXTINF:-1 group-title="24 horas",[24H] UM MALUCO NO PEDACO 2 TEMP
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33520
-#EXTINF:-1 group-title="Globosat",[24H] UM MALUCO NO PEDACO 3 TEMP
+#EXTINF:-1 group-title="24 horas",[24H] UM MALUCO NO PEDACO 3 TEMP
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33521
-#EXTINF:-1 group-title="Globosat",[24H] SUPER WINGS
+#EXTINF:-1 group-title="24 horas",[24H] SUPER WINGS
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33522
-#EXTINF:-1 group-title="Globosat",[24H] LA CASA  PAPEL 3 TEMPORADA
+#EXTINF:-1 group-title="24 horas",[24H] LA CASA  PAPEL 3 TEMPORADA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33523
-#EXTINF:-1 group-title="Globosat",[24H] PATRULHA CANINA
+#EXTINF:-1 group-title="24 horas",[24H] PATRULHA CANINA
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33524
-#EXTINF:-1 group-title="Globosat",[24H] POLICIA 24 HORAS
+#EXTINF:-1 group-title="24 horas",[24H] POLICIA 24 HORAS
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/33525
-#EXTINF:-1 group-title="Globosat",[24H] Vai que Cola
+#EXTINF:-1 group-title="24 horas",[24H] Vai que Cola
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45161
-#EXTINF:-1 group-title="Globosat",[24H] [US] ADULT SWIM - Black Jesus
+#EXTINF:-1 group-title="24 horas",[24H] [US] ADULT SWIM - Black Jesus
 http://psrv.io:80/kdvn8f2BDtF9A/4396055543/45330
+#EXTINF:-1 group-title="Esporte",SPORTV 2 - FHD
+http://u9in.club:8080/renato/1234567/82744
+#EXTINF:-1 group-title="Premiere",PREMIERE 2 - FHD
+http://u9in.club:8080/renato/1234567/83766
+#EXTINF:-1 group-title="Premiere",PREMIERE 3 - FHD
+http://u9in.club:8080/renato/1234567/83770
+#EXTINF:-1 group-title="Premiere",PREMIERE 4 - FHD
+http://u9in.club:8080/renato/1234567/83774
+#EXTINF:-1 group-title="Premiere",PREMIERE 5 - FHD
+http://u9in.club:8080/renato/1234567/83778
+#EXTINF:-1 group-title="Premiere",PREMIERE 6 - FHD
+http://u9in.club:8080/renato/1234567/83782
 #EXTINF:-1 group-title="Premiere",PREMIERE 7 - FHD
 http://u9in.club:8080/renato/1234567/83785
